@@ -1,8 +1,8 @@
 class Spyhop < Formula
   desc "Board of every Claude Code and Codex session running in Orca"
   homepage "https://github.com/leeleelee3264/spyhop"
-  url "https://github.com/leeleelee3264/spyhop/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "61af8c8ce5c9871e2f15fd52faf3820f67023cb35445a284f3ec1fcc30536e31"
+  url "https://github.com/leeleelee3264/spyhop/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "7c624a02a07d1e3d64eec765123aad3487c29b3bf74c79305c9e074e5d2b9024"
   license "MIT"
 
   depends_on :macos
