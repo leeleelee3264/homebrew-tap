@@ -1,5 +1,5 @@
 class Spyhop < Formula
-  desc "Board of every Claude Code and Codex session running in Orca"
+  desc "Every AI coding session on one board, each with its own progress"
   homepage "https://github.com/leeleelee3264/spyhop"
   url "https://github.com/leeleelee3264/spyhop/archive/refs/tags/v0.1.3.tar.gz"
   sha256 "2738601cc954c88eb046c08813113c4e8383f2b68715c141d3b8c2e09967f680"

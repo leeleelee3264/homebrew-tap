@@ -8,7 +8,7 @@ brew install leeleelee3264/tap/spyhop
 
 | Formula | What |
 |---|---|
-| [spyhop](https://github.com/leeleelee3264/spyhop) | Every AI coding session you have running, on one board |
+| [spyhop](https://github.com/leeleelee3264/spyhop) | Every AI coding session on one board, each with its own progress |
 
 ## License
 
