@@ -1,8 +1,8 @@
 class Spyhop < Formula
   desc "Every AI coding session on one board, each with its own progress"
   homepage "https://github.com/leeleelee3264/spyhop"
-  url "https://github.com/leeleelee3264/spyhop/archive/refs/tags/v0.1.15.tar.gz"
-  sha256 "61726679415d956c3f4e5dcb4918b89f0a40d91e2df132a43db8392d718d8eae"
+  url "https://github.com/leeleelee3264/spyhop/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "f3bcbbfa1c53c03062568c467dc398ad5d8097549aea9291675b27ef93e245e2"
   license "MIT"
 
   depends_on :macos
@@ -15,7 +15,7 @@ class Spyhop < Formula
   def caveats
     <<~EOS
       Run `spyhop` to start the board and open it.
-      It needs Orca and one summarizer: the claude or codex CLI logged in, or a DeepSeek API key.
+      It needs one summarizer: the claude or codex CLI logged in, or a DeepSeek API key. Orca is optional.
 
       Menu bar icon (optional): brew install --cask swiftbar, then run `spyhop` again.
     EOS
