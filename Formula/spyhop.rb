@@ -1,8 +1,8 @@
 class Spyhop < Formula
   desc "Every AI coding session on one board, each with its own progress"
   homepage "https://github.com/leeleelee3264/spyhop"
-  url "https://github.com/leeleelee3264/spyhop/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "f3bcbbfa1c53c03062568c467dc398ad5d8097549aea9291675b27ef93e245e2"
+  url "https://github.com/leeleelee3264/spyhop/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "e170e1d68051527df4b082f7b86a7c794ab590cd88a598d7d8481e622ad20ebb"
   license "MIT"
 
   depends_on :macos
