@@ -1,6 +1,6 @@
 cask "spyhop" do
-  version "2.1.2"
-  sha256 "ed48d89f6709d719c6d73ee42fa995eafef22c413113f3f5c55f6a8b03daaaf8"
+  version "2.1.3"
+  sha256 "b29b7d52bcf8ddc463cea0609cb3e4e9deec3dfca960445b00e6ba20b4604dcd"
 
   url "https://github.com/leeleelee3264/spyhop/releases/download/v#{version}/Spyhop-#{version}.dmg"
   name "Spyhop"
